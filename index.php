@@ -44,8 +44,7 @@
 			}
 		</style>
 		
-		<script type="text/javascript" src="/debug/soar/soar.cat.js"></script>
-
+		<script type="text/javascript" src="soar.js"></script>
 		<script type="text/javascript" src="main.js"></script>
 		<script type="text/javascript" src="player.js"></script>
 		<script type="text/javascript" src="path.js"></script>

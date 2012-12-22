@@ -39,7 +39,7 @@ T.player = {
 		// create a constrained camera for player view
 		this.camera = SOAR.camera.create(T.display);
 		this.camera.nearLimit = 0.01;
-		this.camera.farLimit = 20000;
+		this.camera.farLimit = 200;
 		this.camera.free = false;
 		this.camera.bound.set(Math.sqrt(2) / 2, -1, 0);
 		
